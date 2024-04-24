@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/agenda-maker/static/css/main.787f3f72.css",
-    "main.js": "/agenda-maker/static/js/main.3e5cff5c.js",
+    "main.css": "/agenda-maker/static/css/main.6611689b.css",
+    "main.js": "/agenda-maker/static/js/main.0fc9a358.js",
     "index.html": "/agenda-maker/index.html",
-    "main.787f3f72.css.map": "/agenda-maker/static/css/main.787f3f72.css.map",
-    "main.3e5cff5c.js.map": "/agenda-maker/static/js/main.3e5cff5c.js.map"
+    "main.6611689b.css.map": "/agenda-maker/static/css/main.6611689b.css.map",
+    "main.0fc9a358.js.map": "/agenda-maker/static/js/main.0fc9a358.js.map"
   },
   "entrypoints": [
-    "static/css/main.787f3f72.css",
-    "static/js/main.3e5cff5c.js"
+    "static/css/main.6611689b.css",
+    "static/js/main.0fc9a358.js"
   ]
 }
